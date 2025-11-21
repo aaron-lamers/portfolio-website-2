@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: #FFF;
+}
+
+.kleur-beige {
+    background-color: #EFECE3;
+}
+
+.kleur-lichtblauw {
+    background-color: #8FABD4;
+}
+
+.kleur-donkerblauw {
+    background-color: #4A70A9;
+}
+
+.kleur-zwart {
+    background-color: black;
+}
+
+.funnel-display-font {
+    font-family: "Funnel Display", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
