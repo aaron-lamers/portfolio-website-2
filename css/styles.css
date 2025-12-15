@@ -64,7 +64,14 @@ nav a {
 .welkomstekst{
     height: 240px;
     width: 1000px;
-    
+}
+
+.welkomstekst h1 { 
+    font-size: 53px;
+}
+
+.welkomstekst p {
+    font-size: 20px;
 }
 
 .kleur-beige {
